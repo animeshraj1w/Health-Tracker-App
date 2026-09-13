@@ -8,10 +8,17 @@ venv/
 .env
 .venv
 
+# Backend cache
+backend/app/__pycache__/
+
 # Node
 node_modules/
 dist/
 *.tsbuildinfo
+
+# Frontend cache and build
+frontend/.angular/
+frontend/dist/
 
 # IDE
 .idea/
@@ -23,10 +30,6 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
-
-# Build outputs
-backend/app/__pycache__/
-frontend/dist/
 
 # SQLite
 *.db
