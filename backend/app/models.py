@@ -17,3 +17,4 @@ class HealthEntry(Base):
     mood = Column(String(20))
     notes = Column(Text, nullable=True)
     created_at = Column(DateTime, default=func.now())
+# animesh

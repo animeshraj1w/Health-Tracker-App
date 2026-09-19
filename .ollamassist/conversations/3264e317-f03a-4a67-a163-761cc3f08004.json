@@ -1,0 +1,19 @@
+{
+  "id" : "3264e317-f03a-4a67-a163-761cc3f08004",
+  "title" : "hi",
+  "createdAt" : 1789327404862,
+  "updatedAt" : 1789327769791,
+  "messages" : [ {
+    "role" : "USER",
+    "content" : "hi",
+    "timestamp" : 1789327453412
+  }, {
+    "role" : "USER",
+    "content" : "java",
+    "timestamp" : 1789327601673
+  }, {
+    "role" : "USER",
+    "content" : "hi",
+    "timestamp" : 1789327769791
+  } ]
+}
